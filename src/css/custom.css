@@ -625,44 +625,127 @@ td {
     padding: 0 1rem;
   }
   
-  /* Fix mobile navigation menu */
+  /* Fix mobile navigation menu - Full height sidebar */
   .navbar-sidebar {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 100vh !important;
     z-index: 10000 !important;
+    display: flex !important;
+    flex-direction: column !important;
   }
   
   .navbar-sidebar__backdrop {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 100vh !important;
+    background: rgba(0, 0, 0, 0.6) !important;
     z-index: 9999 !important;
   }
   
-  .navbar-sidebar__item {
-    padding: 0.5rem 1rem;
+  .navbar-sidebar__brand {
+    height: var(--ifm-navbar-height);
+    display: flex;
+    align-items: center;
+    padding: 0 1rem;
+    border-bottom: 1px solid var(--ifm-toc-border-color);
+    background: var(--ifm-navbar-background-color);
   }
   
   .navbar-sidebar__items {
-    height: calc(100vh - 60px);
-    overflow-y: auto;
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 85% !important;
+    max-width: 320px !important;
+    height: 100vh !important;
+    background: var(--ifm-background-color) !important;
+    box-shadow: 2px 0 8px rgba(0, 0, 0, 0.15) !important;
+    overflow-y: auto !important;
+    z-index: 10001 !important;
+    transform: translateX(-100%);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .navbar-sidebar--show .navbar-sidebar__items {
+    transform: translateX(0) !important;
   }
   
   .navbar-sidebar__close {
-    z-index: 10001 !important;
+    position: absolute !important;
+    top: 1rem !important;
+    right: 1rem !important;
+    z-index: 10002 !important;
+    padding: 0.5rem !important;
+    background: transparent !important;
+    border: none !important;
+    font-size: 1.5rem !important;
+    cursor: pointer !important;
+    color: var(--ifm-font-color-base) !important;
   }
   
-  /* Ensure menu links are clickable */
+  .navbar-sidebar__item {
+    padding: 0 !important;
+  }
+  
+  .navbar-sidebar__items .menu {
+    padding: 1rem !important;
+    padding-top: 4rem !important; /* Space for close button */
+  }
+  
+  /* Ensure menu links are clickable and well-styled */
   .navbar-sidebar .menu__link {
     position: relative;
     z-index: 10002;
     pointer-events: auto !important;
+    padding: 0.75rem 1rem !important;
+    display: block !important;
+    font-size: 1rem !important;
+    border-radius: 8px !important;
+    margin: 0.25rem 0 !important;
   }
   
-  .navbar-sidebar .menu__list-item a {
-    display: block;
-    padding: 0.75rem 1rem;
-    width: 100%;
+  .navbar-sidebar .menu__link:hover,
+  .navbar-sidebar .menu__link:active {
+    background: var(--ifm-hover-overlay) !important;
+    text-decoration: none !important;
+  }
+  
+  .navbar-sidebar .menu__list {
+    list-style: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  
+  .navbar-sidebar .menu__list-item {
+    margin: 0.5rem 0 !important;
+  }
+  
+  /* Style categories in mobile menu */
+  .navbar-sidebar .menu__list-item-collapsible {
+    margin: 1.5rem 0 0.5rem 0 !important;
+  }
+  
+  .navbar-sidebar .menu__list-item-collapsible > .menu__link {
+    font-weight: 600 !important;
+    color: var(--ifm-font-color-secondary) !important;
+    font-size: 0.875rem !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.025em !important;
   }
   
   /* Fix for nested menu items */
   .navbar-sidebar .menu__list .menu__list {
-    margin-left: 1rem;
+    margin-left: 1rem !important;
+    margin-top: 0.5rem !important;
+  }
+  
+  .navbar-sidebar .menu__list .menu__list .menu__link {
+    font-size: 0.925rem !important;
   }
   
   /* Ensure proper touch targets for mobile */
@@ -671,20 +754,24 @@ td {
     margin-right: 0.5rem;
   }
   
-  /* Make sure sidebar content is scrollable */
-  .navbar-sidebar__items--show-secondary {
-    transform: translateX(0);
-  }
-  
   /* Fix overlay issues */
   .navbar-sidebar--show .navbar-sidebar__backdrop {
-    opacity: 1;
-    visibility: visible;
+    opacity: 1 !important;
+    visibility: visible !important;
   }
   
-  .navbar-sidebar--show .navbar-sidebar__items {
-    transform: translateX(0);
-    opacity: 1;
+  /* Improve scrolling */
+  .navbar-sidebar__items::-webkit-scrollbar {
+    width: 6px;
+  }
+  
+  .navbar-sidebar__items::-webkit-scrollbar-track {
+    background: var(--ifm-background-color);
+  }
+  
+  .navbar-sidebar__items::-webkit-scrollbar-thumb {
+    background: var(--ifm-font-color-secondary);
+    border-radius: 3px;
   }
 }
 
