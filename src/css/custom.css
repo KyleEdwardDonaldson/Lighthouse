@@ -624,6 +624,68 @@ td {
   .navbar {
     padding: 0 1rem;
   }
+  
+  /* Fix mobile navigation menu */
+  .navbar-sidebar {
+    z-index: 10000 !important;
+  }
+  
+  .navbar-sidebar__backdrop {
+    z-index: 9999 !important;
+  }
+  
+  .navbar-sidebar__item {
+    padding: 0.5rem 1rem;
+  }
+  
+  .navbar-sidebar__items {
+    height: calc(100vh - 60px);
+    overflow-y: auto;
+  }
+  
+  .navbar-sidebar__close {
+    z-index: 10001 !important;
+  }
+  
+  /* Ensure menu links are clickable */
+  .navbar-sidebar .menu__link {
+    position: relative;
+    z-index: 10002;
+    pointer-events: auto !important;
+  }
+  
+  .navbar-sidebar .menu__list-item a {
+    display: block;
+    padding: 0.75rem 1rem;
+    width: 100%;
+  }
+  
+  /* Fix for nested menu items */
+  .navbar-sidebar .menu__list .menu__list {
+    margin-left: 1rem;
+  }
+  
+  /* Ensure proper touch targets for mobile */
+  .navbar__toggle {
+    padding: 0.5rem;
+    margin-right: 0.5rem;
+  }
+  
+  /* Make sure sidebar content is scrollable */
+  .navbar-sidebar__items--show-secondary {
+    transform: translateX(0);
+  }
+  
+  /* Fix overlay issues */
+  .navbar-sidebar--show .navbar-sidebar__backdrop {
+    opacity: 1;
+    visibility: visible;
+  }
+  
+  .navbar-sidebar--show .navbar-sidebar__items {
+    transform: translateX(0);
+    opacity: 1;
+  }
 }
 
 /* Remove default Docusaurus styles that conflict */
