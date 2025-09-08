@@ -69,6 +69,11 @@ const config: Config = {
           label: 'Wiki',
         },
         {
+          to: 'universe/storm-rivers',
+          label: 'Universe',
+          position: 'left',
+        },
+        {
           to: 'overview',
           label: 'World',
           position: 'left',

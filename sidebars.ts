@@ -12,6 +12,28 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
+      label: 'Universe Mechanics',
+      collapsed: false,
+      items: [
+        {
+          type: 'doc',
+          id: 'universe/storm-rivers',
+          label: 'Storm-Rivers',
+        },
+        {
+          type: 'doc',
+          id: 'universe/gravitational-shear',
+          label: 'Gravitational Shear',
+        },
+        {
+          type: 'doc',
+          id: 'universe/the-drift',
+          label: 'The Drift',
+        },
+      ],
+    },
+    {
+      type: 'category',
       label: 'The World',
       collapsed: false,
       items: [
