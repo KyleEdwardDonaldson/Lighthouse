@@ -59,7 +59,7 @@ const config: Config = {
       title: 'Tempest Rift',
       logo: {
         alt: 'Tempest Rift Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
         {
