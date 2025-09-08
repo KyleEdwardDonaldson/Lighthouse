@@ -30,6 +30,16 @@ const sidebars: SidebarsConfig = {
           id: 'universe/the-drift',
           label: 'The Drift',
         },
+        {
+          type: 'doc',
+          id: 'universe/trade-and-commerce',
+          label: 'Trade & Commerce',
+        },
+        {
+          type: 'doc',
+          id: 'universe/life-on-the-planets',
+          label: 'Planetary Life',
+        },
       ],
     },
     {

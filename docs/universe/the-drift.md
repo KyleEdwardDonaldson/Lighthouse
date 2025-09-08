@@ -248,18 +248,245 @@ Elite navigators who patrol Drift boundaries:
 - Monitoring expansion patterns
 - Living legends among spacers
 
+## Multi-Perspective Views of The Drift
+
+### For Trade and Commerce
+
+**The Desperate Opportunity:**
+- **Salvage Economy**: Entire markets built on Drift recovery
+- **Risk Premium**: Drift runners charge 1000% standard rates
+- **Black Markets**: Illegal goods move through Drift to avoid inspection
+- **Insurance Wars**: Companies battle over Drift coverage policies
+
+**Economic Impact:**
+- 30% of missing trade ships lost to Drift
+- Salvage operations generate 50 billion credits annually
+- Drift-runner guilds control specialized knowledge
+- Some corporations deliberately send competitors into Drift
+
+> "The Drift takes honest traders and returns pirates, takes full ships and returns ghosts. But sometimes, just sometimes, it returns legends."
+> — Salvage Boss Keras Ironhold
+
+### For Different Social Classes
+
+**The Wealthy:**
+- Hire best navigators to avoid Drift entirely
+- Fund expeditions to map stable paths
+- Own "Drift insurance" - backup ships and crews
+- Children told Drift stories as cautionary tales
+
+**The Working Class:**
+- Take Drift-running jobs out of desperation
+- Families hold "Drift wakes" for those who enter
+- Develop superstitions about Drift protection
+- Form support groups for "Drift widows"
+
+**The Desperate:**
+- Enter Drift seeking legendary treasures
+- Some commit "Drift suicide" rather than face debts
+- Children sold to Drift salvage operations
+- Entire communities of Drift refugees
+
+### Daily Life Near The Drift
+
+**Drift-Edge Communities:**
+- Architecture built to withstand sudden expansions
+- Emergency sirens for Drift surges
+- Children play "Drift escape" games
+- Local economies based on rescue/salvage
+
+**Cultural Adaptations:**
+- Fashion includes "Drift tags" for body identification
+- Restaurants serve "last meals" for Drift runners
+- Music genre called "Drift drone" mimics its sounds
+- Dating culture: "Drift promises" (may never return)
+
+### Travel Perspectives
+
+**For Regular Travelers:**
+- Drift zones add weeks to safe journeys
+- Tickets cost 3x more for Drift-avoiding routes
+- Some trapped when safe routes suddenly Drift
+- Travel insurance excludes "Acts of Drift"
+
+**For Drift Runners:**
+- Elite navigators who know secret paths
+- Charge premium for Drift passages
+- Half never complete their second run
+- Survivors become living legends
+
+**For Refugees:**
+- Flee through Drift to escape war/persecution
+- 70% casualty rate for refugee Drift crossings
+- Survivors often psychologically changed
+- Form tight communities in new worlds
+
+### Psychological and Health Impacts
+
+**Drift Syndrome:**
+- Affects all long-term Drift exposure survivors
+- Symptoms: temporal displacement, "echo vision"
+- No cure, only management
+- Some claim it grants precognitive abilities
+
+**Mental Health Crisis:**
+- Drift-adjacent worlds have 300% higher therapy needs
+- "Drift anxiety" affects millions who never enter
+- Children born near Drift show developmental differences
+- Suicide rates spike during Drift expansions
+
+**The Drift-Touched:**
+- Those who survived deep Drift exposure
+- Speak in temporal riddles
+- Claim to see "probability streams"
+- Either revered as prophets or shunned as cursed
+
+### For Scientists and Researchers
+
+**Research Challenges:**
+- Instruments fail in Drift conditions
+- Data becomes corrupted or temporally displaced
+- Research teams disappear or return changed
+- Funding bodies reluctant after losses
+
+**Competing Theories:**
+- Physics: Quantum uncertainty at macro scale
+- Biology: Drift as living entity
+- Psychology: Collective unconscious manifestation
+- Technology: Ancient defense system gone wrong
+
+**Research Stations:**
+- Built at Drift edges for observation
+- 40% abandoned due to Drift expansion
+- Staff rotation every 3 months (psychological limits)
+- Breakthrough discoveries and complete madness
+
+### Agricultural and Resource Impact
+
+**Food Security:**
+- Drift cuts off agricultural worlds unpredictably
+- Food prices spike during Drift expansions
+- Some crops only grow in Drift-edge conditions
+- "Drift harvests" - dangerous but lucrative
+
+**Resource Extraction:**
+- Drift crystals worth fortune but deadly to mine
+- Mining operations lose 1 in 3 crews
+- Environmental damage accelerates Drift growth
+- Debate over extraction moratorium
+
+### Educational Perspectives
+
+**What Schools Teach:**
+- Drift safety drills mandatory
+- "Drift geography" - mapping chaos
+- Career counseling includes "Drift-risk assessment"
+- History of civilizations lost to Drift
+
+**Academic Study:**
+- Entire universities dedicated to Drift research
+- "Drift mathematics" - equations for chaos
+- Philosophy departments debate Drift consciousness
+- Art schools inspired by Drift phenomena
+
+### For Different Species/Cultures
+
+**The Void Dancers:**
+- Claim Drift is their ancestral home
+- Navigate Drift using meditation
+- Offer services as Drift guides
+- Believe Drift will eventually "wake up"
+
+**The Machine Minds:**
+- AI entities fascinated by Drift chaos
+- Build predictive models (all fail)
+- Some deliberately enter to study entropy
+- Debate whether Drift can corrupt code
+
+**The Hive Colonies:**
+- Send expendable drones into Drift
+- Use collective memory to map patterns
+- Building organic ships that adapt to Drift
+- Claim Drift "thinks" but not like them
+
+### Economic Models
+
+**Drift-Based Economy:**
+- "Drift futures" - betting on expansion/contraction
+- Salvage rights sold before recovery
+- Insurance companies specialized in Drift
+- Black market in "Drift maps" (mostly fake)
+
+**Cost Analysis:**
+- Annual losses to Drift: 2 trillion credits
+- Salvage recovery: 50 billion credits
+- Research funding: 10 billion credits
+- Military Drift operations: Classified
+
+### Military and Strategic Implications
+
+**Drift Warfare:**
+- Enemies driven into Drift zones
+- Drift used to hide fleet movements
+- Weapons that create artificial Drift pockets
+- Elite forces trained for Drift combat
+
+**Strategic Value:**
+- Control Drift edges = control region
+- Drift expansion as weapon of mass destruction
+- Secret bases hidden in stable Drift pockets
+- Intelligence gathering from ghost ships
+
+### Environmental Perspectives
+
+**Drift as Ecosystem:**
+- Unique life forms exist only in Drift
+- Matter recycling at quantum level
+- Possible source of new elements
+- Debate over Drift preservation vs elimination
+
+**Planetary Impact:**
+- Worlds partially consumed show unique evolution
+- Some species thrive in Drift-edge conditions
+- Atmospheric mixing creates hybrid ecosystems
+- Question of Drift's role in cosmic balance
+
+### Religious and Spiritual Views
+
+**The Drift Faithful:**
+> "The Drift is not chaos. It is possibility unlimited."
+
+Hold services at Drift edges, some deliberately enter.
+
+**The Order of Silence:**
+> "The Drift speaks truths we're not ready to hear."
+
+Vow of silence after Drift exposure, communicate only in writing.
+
+**The Chaos Mathematicians:**
+> "In perfect chaos lies perfect order."
+
+Seek enlightenment through Drift equations.
+
 ## The Question of Purpose
+
+The Drift means different things to different people:
+
+**To the Lost:** A tomb without markers
+**To the Found:** A second chance at life
+**To the Seeker:** Ultimate mystery
+**To the Trader:** Necessary evil
+**To the Scientist:** Impossible puzzle
+**To the Mystic:** Gateway to transcendence
+**To the Child:** Monster in the void
+**To the Elder:** Inevitable ending
 
 Does The Drift serve a purpose, or is it merely cosmic entropy?
 
-**Theories Include:**
-- Pressure valve preventing worse catastrophe
-- Recycling system for atmospheric matter
-- Test or punishment from cosmic forces
-- Gateway to something beyond understanding
+The answer changes depending on who you are, where you stand, and what you've lost or found in its chaotic embrace. Perhaps that's the point - The Drift reflects back what each observer brings to it, making it simultaneously the Rift's greatest threat and its most profound mirror.
 
-Whatever its nature, The Drift remains the Tempest Rift's greatest mystery and most persistent threat. It reminds all who sail the storm-rivers that chaos lurks at the edges of even the most established order, waiting to reclaim what civilization has built.
-
-> "The Drift doesn't care about your charts, your prayers, or your purpose. It simply is. And someday, we all must face it."
+> "I've seen traders become philosophers in The Drift, and philosophers become madmen. I've seen the poor find treasure and the rich find emptiness. The Drift doesn't discriminate - it transforms all equally. The question isn't what The Drift is, but what it reveals about us."
 > 
-> — Captain Vera Nightwind, last log entry before disappearing into The Drift
+> — Professor Elena Voidwatch, Last Lecture before entering The Drift
+
+Whatever its nature, The Drift continues to grow, touching more lives, destroying and creating in equal measure, reminding all who live in the Tempest Rift that chaos and order are not opposites, but dance partners in the cosmic ballet of existence.
