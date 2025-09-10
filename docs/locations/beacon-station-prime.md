@@ -7,13 +7,13 @@ title: Beacon Station Prime
 
 ## The Heart of the Rift
 
-Beacon Station Prime stands as humanity's greatest achievement in the Tempest Rift — a massive city-station built at the confluence of seven major storm-rivers, housing 2.3 million souls from dozens of worlds.
+Beacon Station Prime stands as humanity's greatest achievement in the Rift — a massive city-station built at the confluence of seven major storm-rivers, housing 2.3 million souls from dozens of worlds.
 
 ## Structure and Architecture
 
 ### The Seven Tiers
 
-**Tier One: The Lighthouse Crown**
+**Tier One: The Beacon Crown**
 - Elevation: 5,000 meters above base
 - Houses the Great Beacon, visible from 10,000 miles
 - Navigation control center coordinating all traffic

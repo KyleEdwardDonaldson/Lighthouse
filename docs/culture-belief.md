@@ -110,7 +110,7 @@ Ancient musical maps encoding:
 ### The Source Quest
 
 **The Ultimate Pilgrimage**
-- Journey to find the origin point of the Tempest Rift
+- Journey to find the origin point of the Rift
 - No confirmed successful completion in recorded history
 - Pilgrims follow storm-rivers "upstream" toward theoretical source
 - Many religions believe the source holds ultimate truth
@@ -123,7 +123,7 @@ Ancient musical maps encoding:
 - Pilgrims meditate here for weeks
 - Site of reported miracles and visions
 
-*The First Lighthouse*
+*The First Beacon*
 - Oldest known beacon in the Rift
 - Keeper lineage traced back 5,000 years
 - Pilgrims receive blessings from the keeper

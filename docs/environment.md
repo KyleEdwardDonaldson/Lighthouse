@@ -3,7 +3,7 @@ sidebar_position: 3
 title: The Environment
 ---
 
-# Environment of the Tempest Rift
+# Environment of the Rift
 
 ## Storm-Rivers
 

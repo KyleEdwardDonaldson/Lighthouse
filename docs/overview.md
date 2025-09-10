@@ -3,11 +3,11 @@ sidebar_position: 2
 title: Overview of the Rift
 ---
 
-# Overview of the Tempest Rift
+# Overview of the Rift
 
 ## The Great Anomaly
 
-The Tempest Rift defies conventional understanding of space. Where void should reign, atmospheric rivers flow. Where silence should prevail, storms rage eternal. This cosmic anomaly spans thousands of light-years, connecting hundreds of worlds through its network of luminous torrents.
+The Rift defies conventional understanding of space. Where void should reign, atmospheric rivers flow. Where silence should prevail, storms rage eternal. This cosmic anomaly spans thousands of light-years, connecting hundreds of worlds through its network of luminous torrents.
 
 ## The Nature of the Rift
 
@@ -41,12 +41,12 @@ The Rift touches approximately 347 documented planets:
 
 ## The Great Mystery
 
-No one knows how the Tempest Rift formed. Theories range from:
+No one knows how the Rift formed. Theories range from:
 - A natural cosmic catastrophe
 - An ancient civilization's failed experiment
 - A divine creation to connect scattered worlds
 - A wound in reality that refuses to heal
 
-What is certain: the Rift has existed for at least ten thousand years, based on the oldest navigation songs and lighthouse records. And it shows no signs of closing.
+What is certain: the Rift has existed for at least ten thousand years, based on the oldest navigation songs and beacon records. And it shows no signs of closing.
 
 ⚡ *"To understand the Rift is to understand that some mysteries are meant to be sailed, not solved."* — Navigator's Creed

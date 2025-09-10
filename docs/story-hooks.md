@@ -5,7 +5,7 @@ title: Story Hooks & Adventures
 
 # Story Hooks & Adventures
 
-## The Lighthouse Keeper's Tale
+## The Beacon Keeper's Tale
 
 ### The Last Light of Sorrow's End
 
@@ -24,7 +24,7 @@ You are Keeper Maris Thorne, guardian of Beacon Station 7-Alpha, positioned at t
 - Recording the last words of doomed vessels
 
 **The Mystery**
-- Ships report seeing another lighthouse that shouldn't exist
+- Ships report seeing another beacon that shouldn't exist
 - Your predecessor's final log entry: "The storms are singing my name"
 - Something is calling navigators into The Drift
 - Are you going mad, or is the Rift trying to communicate?
@@ -32,7 +32,7 @@ You are Keeper Maris Thorne, guardian of Beacon Station 7-Alpha, positioned at t
 **Potential Developments**
 - A damaged cathedral ship carrying 10,000 refugees needs guidance
 - Pirates offer supplies in exchange for selective "blackouts"
-- The ghost lighthouse appears to be signaling in ancient navigation code
+- The ghost beacon appears to be signaling in ancient navigation code
 - Your relief keeper arrives... but claims YOU'RE the replacement
 
 ## The Merchant's Gambit
@@ -140,7 +140,7 @@ The ambitious Synthesis Collective is mounting the largest expedition ever attem
 **The Route**
 - Following theoretical "upstream" calculations
 - Through regions no ship has returned from
-- Past the Lighthouse Graveyard
+- Past the Beacon Graveyard
 - Into the Deep Calm where physics breaks
 
 **Your Mission** (Choose One)
@@ -217,7 +217,7 @@ You owe your life to a river. During your first voyage, the Molten Vein carried 
 
 ### The Inheritance
 
-Your family has kept a lighthouse for twenty generations. You've inherited not just the beacon, but a secret your ancestors died protecting — the location of a stable passage through The Drift.
+Your family has kept a beacon for twenty generations. You've inherited not just the beacon, but a secret your ancestors died protecting — the location of a stable passage through The Drift.
 
 ### The Translation
 

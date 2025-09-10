@@ -6,11 +6,11 @@ sidebar_label: Gravitational Shear
 
 # Gravitational Shear
 
-The fundamental force that creates and sustains the Tempest Rift, gravitational shear is the cosmic phenomenon that tears atmospheres from worlds and weaves them into storm-rivers.
+The fundamental force that creates and sustains the Rift, gravitational shear is the cosmic phenomenon that tears atmospheres from worlds and weaves them into storm-rivers.
 
 ## The Science
 
-Gravitational shear occurs when competing gravity wells create tidal forces strong enough to overcome a planet's atmospheric retention. Unlike simple atmospheric loss, the Tempest Rift's unique configuration creates *sustained extraction channels* that form stable rivers rather than dissipating into void.
+Gravitational shear occurs when competing gravity wells create tidal forces strong enough to overcome a planet's atmospheric retention. Unlike simple atmospheric loss, the Rift's unique configuration creates *sustained extraction channels* that form stable rivers rather than dissipating into void.
 
 ### The Shear Equation
 
@@ -239,7 +239,7 @@ The paradox of the Rift:
 
 **The Shear-Rich:**
 - Own property in stable, low-shear zones
-- Can afford shear-shielding technology
+- Can afford reinforced hull technology and storm-tethering systems
 - Travel freely regardless of shear conditions
 - Children educated off-world in zero-shear academies
 
@@ -372,4 +372,4 @@ The future depends on who you ask:
 - Some planning mass evacuations
 - Others accepting their fate with dignity
 
-The shear continues, indifferent to all perspectives, pulling worlds apart while binding civilizations together through shared struggle against the cosmic forces that both threaten and define life in the Tempest Rift.
+The shear continues, indifferent to all perspectives, pulling worlds apart while binding civilizations together through shared struggle against the cosmic forces that both threaten and define life in the Rift.

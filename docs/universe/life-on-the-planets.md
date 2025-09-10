@@ -6,7 +6,7 @@ sidebar_label: Planetary Life
 
 # Life on the Planets
 
-While traders sail the storm-rivers and navigators brave the Drift, billions live on worlds slowly bleeding their atmospheres into space. This is their story - the ground-dwellers of the Tempest Rift.
+While traders sail the storm-rivers and navigators brave the Drift, billions live on worlds slowly bleeding their atmospheres into space. This is their story - the ground-dwellers of the Rift.
 
 ## The Atmospheric Hierarchy
 
@@ -83,7 +83,20 @@ While traders sail the storm-rivers and navigators brave the Drift, billions liv
 - Pressurized habitats preserving pre-Rift conditions
 - Strict population controls
 - Airlocks between districts
-- Solar panels and nuclear power
+
+**Power Generation Systems:**
+
+*Surface Installations:*
+- **Shear-Sails**: Massive tethered membranes extending from dome perimeters into gravitational shear zones. Constant atmospheric pull drives turbines through tensioned cable systems. Double as emergency atmospheric collectors during storm-river passes.
+- **Pressure Differential Engines**: Vertical towers exploiting the gradient between surface pressure and the void-touched upper atmosphere. Continuous planetary "exhale" powers generator cycles.
+
+*Orbital Capture Arrays:*
+- **Storm-River Funnels**: Massive collection structures positioned where storm-rivers flow predictably. Channel atmospheric torrents through directed intake systems, spinning turbines while harvesting valuable gases and rare atmospheric compounds.
+- **Lightning Capacitor Banks**: Arrays charge during storm passes, storing electrical energy from constant lightning arcs within the rivers.
+
+*Traditional Backup Systems:*
+- Solar panels for baseline power during calm periods
+- Nuclear reactors for critical life support redundancy
 
 **Social Stratification:**
 - **Dome-born**: Never breathed natural air, highest status
@@ -323,9 +336,9 @@ Despite everything, life persists:
 - Communities bond through mutual struggle
 - Love blooms even in artificial air
 
-The planets of the Tempest Rift are not just dying worlds - they're worlds transforming, adapting, evolving. Their inhabitants aren't victims but pioneers of a new kind of existence, proving that humanity's greatest resource isn't atmosphere, but adaptability.
+The planets of the Rift are not just dying worlds - they're worlds transforming, adapting, evolving. Their inhabitants aren't victims but pioneers of a new kind of existence, proving that humanity's greatest resource isn't atmosphere, but adaptability.
 
 > "We measure wealth in breaths now. We count sunsets like coins. We treasure memories of wind. But we're still here, still human, still hoping. The sky may be leaving, but we're not giving up."
 > — President Maria Lastbreath, Final State of the World Address, Dying World Taron-5
 
-In the Tempest Rift, every breath is borrowed, every day is defiance, and every child born is an act of faith that somehow, somewhere, the air will continue to flow.
+In the Rift, every breath is borrowed, every day is defiance, and every child born is an act of faith that somehow, somewhere, the air will continue to flow.

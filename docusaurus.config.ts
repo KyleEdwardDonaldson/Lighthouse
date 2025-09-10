@@ -5,9 +5,9 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Tempest Rift Wiki',
+  title: 'Rift Wiki',
   tagline: 'Where atmospheres become oceans, and storms forge the paths between worlds',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.svg',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -56,9 +56,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/tempest-rift-social.jpg',
     navbar: {
-      title: 'Tempest Rift',
+      title: 'Rift',
       logo: {
-        alt: 'Tempest Rift Logo',
+        alt: 'Rift Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -128,7 +128,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `⚡ The storms remember. The rivers know. © ${new Date().getFullYear()} Tempest Rift Wiki`,
+      copyright: `⚡ The storms remember. The rivers know. © ${new Date().getFullYear()} Rift Wiki`,
     },
     prism: {
       theme: prismThemes.github,

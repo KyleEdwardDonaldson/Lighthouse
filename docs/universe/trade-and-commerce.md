@@ -6,7 +6,7 @@ sidebar_label: Trade & Commerce
 
 # Trade and Commerce in the Rift
 
-The Tempest Rift's storm-rivers transformed commerce from planetary isolation to interworld economy. But with opportunity comes risk, and nowhere is this truer than in the Rift's turbulent trade networks.
+The Rift's storm-rivers transformed commerce from planetary isolation to interworld economy. But with opportunity comes risk, and nowhere is this truer than in the Rift's turbulent trade networks.
 
 ## The Economics of Storm-River Trade
 
@@ -300,10 +300,10 @@ Sustainable commerce preserving rivers for future.
 
 ## Conclusion: The Pulse of Civilization
 
-Trade isn't just economics in the Tempest Rift - it's the heartbeat of civilization. Every ship that successfully navigates the storm-rivers carries more than cargo; it carries hope, connection, and the promise that isolation isn't forever.
+Trade isn't just economics in the Rift - it's the heartbeat of civilization. Every ship that successfully navigates the storm-rivers carries more than cargo; it carries hope, connection, and the promise that isolation isn't forever.
 
 But this pulse is irregular, threatened by Drift expansion, river instability, and human greed. The question isn't whether trade will continue, but whether it will adapt fast enough to survive the Rift's evolution.
 
 As traders say: "The rivers give, the rivers take, but without them, we're all alone in the dark."
 
-The commerce of the Tempest Rift reflects its nature - beautiful and terrible, profitable and deadly, connecting and destroying in equal measure. In the end, trade is just another way the Rift tests those who dare to call it home.
+The commerce of the Rift reflects its nature - beautiful and terrible, profitable and deadly, connecting and destroying in equal measure. In the end, trade is just another way the Rift tests those who dare to call it home.

@@ -6,7 +6,7 @@ sidebar_label: The Drift
 
 # The Drift
 
-The chaotic edges of the Tempest Rift where order breaks down and ships disappear into turbulent eddies or scatter into deep space. The Drift represents both ultimate danger and strange opportunity.
+The chaotic edges of the Rift where order breaks down and ships disappear into turbulent eddies or scatter into deep space. The Drift represents both ultimate danger and strange opportunity.
 
 ## Nature of The Drift
 
@@ -489,4 +489,4 @@ The answer changes depending on who you are, where you stand, and what you've lo
 > 
 > — Professor Elena Voidwatch, Last Lecture before entering The Drift
 
-Whatever its nature, The Drift continues to grow, touching more lives, destroying and creating in equal measure, reminding all who live in the Tempest Rift that chaos and order are not opposites, but dance partners in the cosmic ballet of existence.
+Whatever its nature, The Drift continues to grow, touching more lives, destroying and creating in equal measure, reminding all who live in the Rift that chaos and order are not opposites, but dance partners in the cosmic ballet of existence.

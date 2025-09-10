@@ -6,7 +6,7 @@ sidebar_label: Storm-Rivers
 
 # Storm-Rivers
 
-The lifeblood of the Tempest Rift, these massive atmospheric torrents flow between worlds like cosmic arteries.
+The lifeblood of the Rift, these massive atmospheric torrents flow between worlds like cosmic arteries.
 
 ## Formation
 
@@ -30,7 +30,7 @@ Experienced skyship navigators read storm-rivers like ancient mariners read ocea
 
 ### Hazards
 - **Cross-shears**: Where opposing currents meet, creating ship-crushing turbulence
-- **Plasma Bursts**: Sudden eruptions of superheated matter that can vaporize unshielded vessels
+- **Plasma Bursts**: Sudden eruptions of superheated matter that can vaporize vessels without proper hull reinforcement
 - **The Undertow**: Deep currents that pull ships toward planetary gravity wells
 
 ## Types of Storm-Rivers

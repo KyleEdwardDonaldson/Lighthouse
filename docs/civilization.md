@@ -3,7 +3,7 @@ sidebar_position: 4
 title: Civilizations of the Rift
 ---
 
-# Civilizations of the Tempest Rift
+# Civilizations of the Rift
 
 ## The Art of Skyship Navigation
 
@@ -129,7 +129,7 @@ The largest permanent structure in the Rift:
 
 ## Cultural Traditions
 
-### The Lighthouse Keepers
+### The Beacon Keepers
 
 **The Order of the Beacon**
 - Solitary guardians of navigation beacons

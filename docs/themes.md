@@ -3,13 +3,13 @@ sidebar_position: 6
 title: Themes & Philosophy
 ---
 
-# Themes & Philosophy of the Tempest Rift
+# Themes & Philosophy of the Rift
 
 ## Connectivity vs. Fragility
 
 ### The Paradox of Connection
 
-The Tempest Rift represents humanity's eternal struggle with connection — it brings worlds together while threatening to tear them apart.
+The Rift represents humanity's eternal struggle with connection — it brings worlds together while threatening to tear them apart.
 
 **The Gift and the Curse**
 - Storm-rivers enable interplanetary civilization
@@ -32,7 +32,7 @@ The Tempest Rift represents humanity's eternal struggle with connection — it b
 ### The Fragile Web
 
 **Single Points of Failure**
-- Loss of key lighthouse can isolate entire regions
+- Loss of key beacon can isolate entire regions
 - Major storm-river disruption affects dozens of worlds
 - Critical trade routes vulnerable to piracy or natural disasters
 - Navigation knowledge concentrated in few guild members
@@ -108,7 +108,7 @@ The Rift forces civilizations to confront the limits of scientific understanding
 **Who Controls the Rivers?**
 - Powerful civilizations claim exclusive routes
 - Navigation guilds hoard critical knowledge
-- Lighthouse keepers as gatekeepers of passage
+- Beacon keepers as gatekeepers of passage
 - Pirates and free traders challenge authority
 
 **The Resource Wars**
@@ -151,7 +151,7 @@ The Rift forces civilizations to confront the limits of scientific understanding
 
 ### Personal Sacrifice
 
-**The Lighthouse Keeper's Vigil**
+**The Beacon Keeper's Vigil**
 - Lifetime of isolation for collective safety
 - Individual madness from storm exposure
 - Personal glory vs. anonymous service
@@ -227,4 +227,4 @@ The Rift forces civilizations to confront the limits of scientific understanding
 - Temporary inhabitants or permanent residents?
 - The Rift's children or its conquerors?
 
-⚡ *"The Tempest Rift asks every soul who enters it the same question: What will you sacrifice for connection? And more importantly, what will you preserve despite the storm?"* — Philosopher Yarix Heme, "Meditations on the Current"
+⚡ *"The Rift asks every soul who enters it the same question: What will you sacrifice for connection? And more importantly, what will you preserve despite the storm?"* — Philosopher Yarix Heme, "Meditations on the Current"
